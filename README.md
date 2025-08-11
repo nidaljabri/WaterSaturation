@@ -19,7 +19,7 @@ Developed using Python's `tkinter` library for GUI and `PIL` for image handling.
 
 **Nidal Jabri**  
 © 2019 Nila Holding Group LLC  
-📧 Contact: [Nidal.Jabri@Mavs.Uta.Edu](mailto:Nidal.Jabri@Mavs.Uta.Edu)
+📧 Contact: n.jabri@outlook.com
 
 ---
 
